@@ -4,6 +4,6 @@
 
 1. Download the repo.
 
-2. Just click on the index.html file , it open on the browser.
+2. Just click on the index.html file , its open on the browser.
 
 
